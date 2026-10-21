@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smoretips.no/sitemap.xml
